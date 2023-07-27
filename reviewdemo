@@ -1,0 +1,6 @@
+public class demo{
+  method1(){
+    system.out.println("method execution")
+  }
+  public static void main(string[] args)
+  }
